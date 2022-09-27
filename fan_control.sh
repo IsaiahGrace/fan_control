@@ -20,7 +20,7 @@ then
 fi
 
 # These are the cuttof points at which the fan will turn on or off, in C
-MAX=56 # idle steady state without fan is ~55
+MAX=57 # idle steady state without fan is ~55
 MIN=44 # idle steady state with fan is ~36
 
 # Measure the temp from the OS
